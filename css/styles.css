@@ -1,0 +1,73 @@
+/* CSS Document */
+
+/* CSS style rule */
+
+/*CSS Reset */
+body, h1, main, nav, nav a, div, img, p {
+	margin: 0;
+	padding: 0;
+	border: 0;
+}
+
+body, h1, h2, blockquote, table{
+	
+}
+
+blockquote{
+	
+}
+
+.container {
+	padding: 2%;
+	color: #fff;
+}
+
+h1{
+	text-align: center;
+}
+
+main{
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+}
+
+nav {
+	background-color: #202020;
+}
+
+nav a {
+	display: block;
+	color: #7B7B7B;
+	text-decoration: none;
+	padding: 0 2em;
+}
+a:hover {
+	color: #fff;}
+nav ul {
+	list-style-type: none;
+	margin: 0;
+	text-align: center;
+}
+nav li {
+	display: inline-block;
+	font-size: 1em;
+	font-weight: bold;
+	margin: 2em 1em 0 0;
+	padding: 0 0 2em;
+}
+
+header{
+	text-align: center;
+	font-size: 2em;
+}
+
+body{
+	background-color: darkgrey;
+}
+
+img{
+	width: 100%;
+}
+
+main img{
+	width: 30%;
+}
